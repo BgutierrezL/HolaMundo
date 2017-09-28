@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="message">AdiósMundoCruel</string>
+    <string name="second_message">Seteando el mensaje</string>
+</resources>

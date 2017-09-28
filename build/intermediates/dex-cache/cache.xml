@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/belen/.android/build-cache/e72930fadedeea0917ac0a197f7091f808030fcf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/belen/AndroidStudioProjects/Deint/HolaMundo/app/build/intermediates/pre-dexed/debug/classes_52a1b25a4c9f69904212a10dc47e450dd717412c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/belen/.android/build-cache/746e4d9b2c412b60ddf4ee0e95b7640d475beeea/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/belen/AndroidStudioProjects/Deint/HolaMundo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_acdf4837c091711f606e9086d1355928f50f28df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/belen/.android/build-cache/746e4d9b2c412b60ddf4ee0e95b7640d475beeea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/belen/AndroidStudioProjects/Deint/HolaMundo/app/build/intermediates/pre-dexed/debug/classes_f6a54dc3ff7735de3a339011a94e2c7d665b6413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/belen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/belen/AndroidStudioProjects/Deint/HolaMundo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_714419a5bacc2f363b50178986432559e14e8b8f.jar" />
+    </item>
+
+</items>
